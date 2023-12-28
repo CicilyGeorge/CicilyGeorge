@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Cicily George
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in Programming, Data Analysis and Visualization
 <!--- - 💞️ I’m looking to collaborate on ...  --->
 - 📫 Contact me: cicilyg89@gmail.com
 
